@@ -1,6 +1,6 @@
 # Telegram client using python
 
-This is an example of how you can connect to a group or chat in telegram with a bot using python and process the messages than arrives at that group.
+This is an example of how can you connect to a group or chat in telegram with a bot using python and process the messages than arrives in that group.
 
 ## Table of Contents
 
